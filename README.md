@@ -31,3 +31,7 @@
  extension displays a dancing banana and plays music until closed.<br />
  Working? Yes
  
+ self-deleter<br />
+ Function? Deletes itself! <br />
+ Working? Yes <br />
+ 
