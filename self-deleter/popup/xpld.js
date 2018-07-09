@@ -1,0 +1,1 @@
+browser.management.uninstallSelf();

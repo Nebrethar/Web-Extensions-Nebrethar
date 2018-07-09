@@ -1,0 +1,27 @@
+{
+
+  "manifest_version": 2,
+  "name": "Self Deleter",
+  "version": "1.0",
+
+  "description": "it deletes itself",
+  "icons": {
+    "48": "icons/xpld-48.jpg"
+  },
+
+  "permissions": [
+    "management"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/xpld-32.jpg",
+    "default_title": "Self Deleter",
+	"default_popup": "popup/xpld.html"
+  },
+
+  "icons": {
+    "48": "icons/xpld-48.jpg",
+    "96": "icons/xpld-96.jpg"
+  }
+
+}
