@@ -1,0 +1,28 @@
+{
+
+  "manifest_version": 2,
+  "name": "Peanut Butter Jellify",
+  "version": "1.0",
+
+  "description": "Adds a Peanut Butter Jelly Time themed party to the screen at the user's request. Adapted from https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples#beastify",
+  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+  "icons": {
+    "48": "icons/pbj-48.png"
+  },
+
+  "permissions": [
+    "idle"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/pbj-32.png",
+    "default_title": "Peanut Butter Jellify",
+    "default_popup": "popup/idle.html"
+  },
+
+  "icons": {
+    "48": "icons/pbj-48.png",
+    "96": "icons/pbj-96.png"
+  }
+
+}

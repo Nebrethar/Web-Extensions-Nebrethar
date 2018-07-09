@@ -1,0 +1,34 @@
+{
+
+  "manifest_version": 2,
+  "name": "Data",
+  "version": "1.0",
+
+  "description": "Data",
+  "icons": {
+    "48": "icons/pbj-48.png"
+  },
+
+  "permissions": [
+    "webRequestBlocking",
+	"activeTab",
+	"webRequest",
+	"background"
+  ],
+  
+  "background": {
+  "page": "popup/background.html"
+},
+
+  "browser_action": {
+    "default_icon": "icons/pbj-32.png",
+    "default_title": "Data",
+    "default_popup": "popup/data.html"
+  },
+
+  "icons": {
+    "48": "icons/pbj-48.png",
+    "96": "icons/pbj-96.png"
+  }
+
+}

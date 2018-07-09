@@ -1,0 +1,28 @@
+{
+
+  "manifest_version": 2,
+  "name": "Idle Finder",
+  "version": "1.0",
+
+  "description": "finds stuff",
+  "icons": {
+    "48": "icons/alarms-48.png"
+  },
+
+  "permissions": [
+    "find"
+	"idle"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/alarms-32.png",
+    "default_title": "Idle Finder",
+	"default_popup": "popup/finder.html"
+  },
+
+  "icons": {
+    "48": "icons/alarms-48.png",
+    "96": "icons/alarms-96.png"
+  }
+
+}
