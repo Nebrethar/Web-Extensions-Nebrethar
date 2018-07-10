@@ -73,10 +73,10 @@ Code for finder.js modified from code found at:<br />
 2). https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/idle<br />
 HTML, CSS, and Manifest documents modified from code found at https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_second_WebExtension
  
-**pbjellify:**
+**pbjellify:**<br />
 All code is built from the "Your Second Web Extension" tutorial and customized. The tutorial can be found here:<br /> https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_second_WebExtension
  
-**self-deleter:**
+**self-deleter:**<br />
 The snippet of code for xpld.js file is credited to the page https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/management/uninstallSelf<br />
 HTML and Manifest documents modified from code found at https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_second_WebExtension
  
