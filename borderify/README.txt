@@ -1,2 +1,0 @@
-****THIS PROGRAM WAS BUILT ON THE CODE PROVIDED BY THE MOZILLA WEB EXTENSIONS TURORIAL
-****THE TUTORIAL THAT WAS USED CAN BE FOUND AT https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension
