@@ -5,9 +5,9 @@ This public repository is used to publish FireFox web extensions, and share them
  
 Here is where you will find the status of each project.
 
-Format: 
-NAME AND BASIC INFORMATION
-FUNCTION PERFORMED
+Format: <br />
+NAME AND BASIC INFORMATION<br />
+FUNCTION PERFORMED<br />
 WORKING? STATUS
  
 **TEMPLATE** - A simple template in my style.<br />
