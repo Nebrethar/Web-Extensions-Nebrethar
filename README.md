@@ -34,11 +34,9 @@ Working? Yes
 Function? Deletes itself! <br />
 Working? Yes <br />
  
-Welcome to the Web-Extensions-Nebrethar wiki!
- 
  # Licensing and Copyright
 
-This is where you will find licensing and copyright information for the Web-Extensions-Nebrethar repository.
+This is where you will find original content sources that helped me get my code going.
 
 ### Mozilla 
 The overall structure for these web extensions is provided by the Mozilla Web Extensions Tutorials. These can be found at https://developer.mozilla.org/en-US/Add-ons/WebExtensions/<br />
