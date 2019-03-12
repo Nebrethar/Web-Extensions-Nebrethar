@@ -1,4 +1,7 @@
 
+CHANGING THINGS TO INCLUDE DCO
+
+
 This public repository is used to publish FireFox web extensions, and share them between computers and operating systems.
  
  # Project Status
